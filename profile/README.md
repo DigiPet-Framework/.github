@@ -8,7 +8,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/DigiPet-Framework?style=for-the-badge)](https://github.com/DigiPet-Framework)
 [![GitHub Followers](https://img.shields.io/github/followers/DigiPet-Framework?style=for-the-badge)](https://github.com/DigiPet-Framework)
 [![Twitter Follow](https://img.shields.io/twitter/follow/digipetfw?style=for-the-badge)](https://twitter.com/digipetfw)
-
+[![Read the Docs](https://img.shields.io/readthedocs/DigiPet-Framework?style=for-the-badge)](https://digipet.gitbook.io/docs)
 ---
 
 ## 🚀 Our Mission
