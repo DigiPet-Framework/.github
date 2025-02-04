@@ -8,7 +8,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/DigiPet-Framework?style=for-the-badge)](https://github.com/DigiPet-Framework)
 [![GitHub Followers](https://img.shields.io/github/followers/DigiPet-Framework?style=for-the-badge)](https://github.com/DigiPet-Framework)
 [![Twitter Follow](https://img.shields.io/twitter/follow/digipet_?style=for-the-badge)](https://x.com/digipet_)
-[![Read the Docs](https://img.shields.io/readthedocs/DigiPet-Framework?style=for-the-badge)](https://digipet.gitbook.io/docs)
+[![Documentation](https://img.shields.io/badge/GitBook-Documentation-blue?style=for-the-badge&logo=gitbook)](https://digipet.gitbook.io/docs)
 ---
 
 ## 🚀 Our Mission
